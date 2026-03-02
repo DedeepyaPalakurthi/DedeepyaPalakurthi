@@ -10,7 +10,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=900&color=FFFFFF&width=900&height=96&multiline=true&lines=-+Software+Engineer+%7C+AI%2FML+Engineer;-+Backend+%7C+Cloud+%7C+Applied+ML;-+Baltimore%2C+MD+%28Open+to+Relocation%29&repeat=false" />
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=900&color=FFFFFF&width=900&height=96&multiline=true&lines=-+Software+Developer+%7C+Full+Stack+Engineer+(Python);-+Backend+%7C+Cloud+%7C+Applied+ML;-+Baltimore%2C+MD+%28Open+to+Relocation%29&repeat=false" />
   <source media="(prefers-color-scheme: light)"
     srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=900&color=000000&width=900&height=96&multiline=true&lines=-+Software+Engineer+%7C+AI%2FML+Engineer;-+Backend+%7C+Cloud+%7C+Applied+ML;-+Baltimore%2C+MD+%28Open+to+Relocation%29&repeat=false" />
   <img alt="Profile summary"
@@ -38,8 +38,8 @@ I am actively seeking opportunities in **Backend / Full Stack Software Engineeri
 
 ## Contact
 
-- Email: [dedeepyapalakurthi21@gmail.com](mailto:dedeepyapalakurthi21@gmail.com)  
-- LinkedIn: [linkedin.com/in/dedeepya-palakurthi-366653204](https://www.linkedin.com/in/dedeepya-palakurthi-366653204/)
+- Email: [dedeepyapalakurthi@gmail.com](mailto:dedeepyap9801@gmail.com)  
+- LinkedIn: [linkedin.com/in/dedeepya-palakurthi](https://www.linkedin.com/in/dedeepya-palakurthi/)
 
 ---
 
